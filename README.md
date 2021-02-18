@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rago-actions&theme=radical&show_icons=true" alt="Ramesh's Github Stats" />
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/rago-actions/count.svg" alt="Visitor Count" />
+</p>
