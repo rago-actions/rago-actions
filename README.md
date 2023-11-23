@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Software Engineering Lead at Salesforce company.
-- 🌱 I’m currently learning Operating Systems, DSA, K8S and NLP
+
 <!--
 **rago-actions/rago-actions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
